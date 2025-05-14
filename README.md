@@ -1,4 +1,3 @@
-# Ateendence-System
 # Face Recognition Attendance System
 
 A Python-based attendance system that uses face recognition to mark attendance. The system captures faces, trains a model to recognize them, and provides a graphical user interface for managing attendance.
